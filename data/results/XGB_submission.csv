@@ -1,0 +1,31 @@
+comment,Sentiment,Actual
+"['great', '.']",0,1
+"['i', 'do', 'not', 'know', 'how', 'this', 'course', 'is', 'going', 'to', 'help', 'me', 'in', 'my', 'real', 'life', '.']",0,0
+"['all', 'is', 'perfect', '.']",0,1
+"['could', 'be', 'more', 'interactive', 'and', 'practical', 'with', 'live', 'examples', '.']",0,0
+"['more', 'examples', 'required', 'to', 'get', 'a', 'better', 'grip', 'on', 'the', 'concepts', '.']",0,0
+"['also', 'if', 'we', 'are', 'provided', 'with', 'solutions', 'of', 'the', 'problems', 'it', 'would', 'help', 'in', 'cross-\\nchecking', 'our', 'answers', '.']",0,0
+"['i', 'would', 'have', 'scored', 'more', 'if', 'i', 'knew', 'the', 'correct', 'answers', 'for', '2', 'questions', '.']",0,0
+"['the', 'followings', 'are', 'to', 'be', 'considered', ':', '.']",0,1
+"['the', 'materials', 'are', 'really', 'out', 'dated', '.']",0,0
+"[""'yes"", 'this', 'course', 'is', 'a', 'very', 'good', 'course', 'for', 'a', 'beginner', 'like', 'me.â\x80\x99']",1,1
+"['``', 'the', 'method', 'of', 'teaching', 'is', 'poor', '.', ""'""]",0,0
+"['â\x80\x98this', 'course', 'has', 'helped', 'me', 'in', 'finding', 'different', 'scenarios', 'of', 'workâ\x80\x99']",0,1
+"['this', 'course', 'is', 'really\\nchallenging', 'i', 'thing', 'it', 'should', 'be', 'removed', 'from', 'im', 'syllabus', '.']",0,0
+"[""'yes"", 'this', 'course', 'is', 'a', 'very', 'good', 'course', 'for', 'a', 'beginner', 'like', 'me.â\x80\x99']",1,1
+"['``', 'things', 'are', 'not', 'practical', 'in', 'this', 'subject', '.', ""'""]",0,0
+"['this', 'course', 'only', 'has', 'two', 'exams', 'which', 'is', 'not', 'a', 'wise', 'approach', '.']",1,0
+"['it', 'should', 'have', 'some', 'projects', 'and', 'homework', 'so', 'the', 'students', 'can', 'score', '.']",0,0
+"['good', '.']",1,1
+"['excellent', '.']",1,1
+"['a', 'good', 'subject', '!', '.']",1,1
+"['this', 'is', 'one', 'of', 'the', 'beginner', 'and', 'best', 'course', 'in', 'computer', 'vision', '.', 'i', 'would', 'like', 'to', 'include', 'the', 'advance', 'version', 'of', 'this', 'course', 'as', 'well', '.']",1,0
+"['it', 'is', 'an', 'excellent', 'course', 'for', 'phd', 'students', 'as', 'it', 'gives', 'the', 'broad', 'vision', 'of', 'different', 'research', 'areas', 'in', 'machine', 'vision', 'field', '.', 'presenting', 'two', 'papers', '1', 'mid', 'exam', '+', '1', 'project', 'are', 'more', 'than', 'sufficient', 'to', 'give', 'exposure', 'of', 'the', 'vision', 'field', '.', 'i', 'really', 'learn', 'a', 'lot', 'from', 'this', 'course', 'which', 'will', 'definitely', 'help', 'me', 'in', 'my', 'future', 'research', '.', 'this', 'course', 'should', 'be', 'offered', 'in', 'regular', 'semester', '.']",0,1
+"['the', 'course', 'is', 'very', 'good', '.', 'we', 'need', 'more', 'time', 'to', 'read', 'more', 'and', 'more', 'lessons', '.']",1,0
+"['one', 'of', 'the', 'very', 'use', 'full', 'subjects', 'for', 'the', 'new', 'world', 'and', 'is', 'base', 'or', 'core', 'for', 'many', 'real', 'life', 'applications', '.']",0,1
+"['this', 'is', 'a', 'very', 'useful', 'and', 'interesting', 'course', '.', 'we', 'got', 'a', 'chance', 'to', 'better', 'understand', 'the', 'concepts', 'of', 'an', 'image', 'is', 'processed', 'in', 'order', 'to', 'extract', 'useful', 'information', 'and', 'get', 'a', 'glimpse', 'of', 'how', 'they', 'are', 'implemented', 'in', 'real-world', '.', 'presenting', 'the', 'research', 'papers', 'and', 'listening', 'to', 'presentations', 'was', 'really', 'helpful', 'and', 'we', 'got', 'to', 'learn', 'a', 'lot', 'about', 'these', 'topics', '.', 'also', 'the', 'project', 'helped', 'us', 'implement', 'real', 'world', 'applications', 'that', 'is', 'further', 'helpful', 'if', 'we', 'plan', 'to', 'do', 'research', 'in', 'this', 'field', '.']",0,1
+"['good', 'course', '.']",1,1
+"['few', 'more', 'application', 'specific', 'contents', 'is', 'needed', '.', 'in-spite', 'of', 'term', 'exams', ',', 'if', 'we', 'can', 'focus', 'more', 'on', 'the', 'application', 'area', 'then', 'the', 'course', 'will', 'be', 'a', 'huge', 'success', '.']",0,0
+"['more', 'homework', 'assignments', 'would', 'have', 'helped', 'to', 'gain', 'more', 'knowledge', '.']",0,1
+"['must', 'have', 'some', 'tutorials', 'for', 'of', 'programming', 'language', '.']",0,0
+"['one', 'word', '.', 'amazing', '!', '.']",0,1

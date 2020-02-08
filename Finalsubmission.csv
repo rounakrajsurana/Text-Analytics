@@ -1,0 +1,50 @@
+comment,Sentiment
+"['this', 'is', 'one', 'of', 'the', 'beginner', 'and', 'best', 'course', 'in', 'computer', 'vision', '.']",1
+"['i', 'would', 'like', 'to', 'include', 'the', 'advance', 'version', 'of', 'this', 'course', 'as', 'well', '.']",0
+"['it', 'is', 'an', 'excellent', 'course', 'for', 'phd', 'students', 'as', 'it', 'gives', 'the', 'broad', 'vision', 'of', 'different', 'research', 'areas', 'in', 'machine', 'vision', 'field', '.']",1
+"['presenting', 'two', 'papers', '1', 'mid', 'exam', '+', '1', 'project', 'are', 'more', 'than', 'sufficient', 'to', 'give', 'exposure', 'of', 'the', 'vision', 'field', '.']",0
+"['i', 'really', 'learn', 'a', 'lot', 'from', 'this', 'course', 'which', 'will', 'definitely', 'help', 'me', 'in', 'my', 'future', 'research', '.']",1
+"['this', 'course', 'should', 'be', 'offered', 'in', 'regular', 'semester', '.']",0
+"['the', 'course', 'is', 'very', 'good', '.']",1
+"['we', 'need', 'more', 'time', 'to', 'read', 'more', 'and', 'more', 'lessons', '.']",0
+"['one', 'of', 'the', 'very', 'use', 'full', 'subjects', 'for', 'the', 'new', 'world', 'and', 'is', 'base', 'or', 'core', 'for', 'many', 'real', 'life', 'applications', '.']",0
+"['this', 'is', 'a', 'very', 'useful', 'and', 'interesting', 'course', '.']",1
+"['we', 'got', 'a', 'chance', 'to', 'better', 'understand', 'the', 'concepts', 'of', 'an', 'image', 'is', 'processed', 'in', 'order', 'to', 'extract', 'useful', 'information', 'and', 'get', 'a', 'glimpse', 'of', 'how', 'they', 'are', 'implemented', 'in', 'real-world', '.']",1
+"['presenting', 'the', 'research', 'papers', 'and', 'listening', 'to', 'presentations', 'was', 'really', 'helpful', 'and', 'we', 'got', 'to', 'learn', 'a', 'lot', 'about', 'these', 'topics', '.']",1
+"['also', 'the', 'project', 'helped', 'us', 'implement', 'real', 'world', 'applications', 'that', 'is', 'further', 'helpful', 'if', 'we', 'plan', 'to', 'do', 'research', 'in', 'this', 'field', '.']",1
+"['good', 'course', '.']",1
+"['few', 'more', 'application', 'specific', 'contents', 'is', 'needed', '.']",0
+"['in-spite', 'of', 'term', 'exams', 'if', 'we', 'can', 'focus', 'more', 'on', 'the', 'application', 'area', 'then', 'the', 'course', 'will', 'be', 'a', 'huge', 'success', '.']",0
+"['more', 'homework', 'assignments', 'would', 'have', 'helped', 'to', 'gain', 'more', 'knowledge', '.']",0
+"['must', 'have', 'some', 'tutorials', 'for', 'of', 'programming', 'language', '.']",0
+"['ntg', 'one', 'word', '.']",1
+"['amazing', '!', '.']",1
+"['please', 'include', 'field', 'trips', '.']",0
+"['all', 'is', 'the', 'best', 'and', 'i', 'appreciate', 'that', '.']",1
+"['course', 'is', 'very', 'well', 'structured', '.']",1
+"['i', 'think', 'an', 'in', 'class', 'mini-project', 'should', 'be', 'considered', 'to', 'be', 'done', 'step', 'by', 'step', 'in', 'during', 'lectures', '.']",0
+"['this', 'course', 'is', 'a', 'good', 'subject', 'with', 'very', 'interesting', 'lectures', '.']",1
+"['none', 'to', 'improve', '.']",0
+"['no', 'comments/complaints', 'here', '.']",0
+"['it', 'could', 'be', 'beneficial', 'for', 'the', 'course', 'if', 'we', 'had', 'assignments', 'on', 'case', 'studies', 'or', 'the', 'research', 'papers', '.']",0
+"['this', 'course', 'will', 'help', 'me', 'in', 'future', 'in', 'taking', 'decisions', '.']",1
+"['the', 'course', 'is', 'great', '.']",1
+"['1.this', 'course', 'deals', 'with', 'modern', 'examples', 'and', 'also', 'it', 'can', 'be', 'improved', 'in', 'such', 'a', 'manner', 'students', 'can', 'be', 'able', 'to', 'apply', 'to', 'the', 'modern', 'day', 'methods', '.']",0
+"['2.needs', 'some', 'more', 'topics', 'for', 'the', 'privacy', 'methods', 'while', 'dealing', 'with', 'the', 'data', '.']",1
+"['its', 'good', '.']",1
+"['the', 'reading', 'presentations', 'are', 'not', 'effective', '.']",0
+"['good', 'course', 'to', 'learn', 'new', 'things', 'and', 'take', 'good', 'decisions', 'using', 'different', 'decision', 'making', 'methods', '.']",1
+"['this', 'course', 'is', 'nice', 'where', 'we', 'can', 'learn', 'so', 'many', 'things', 'about', 'how', 'to', 'deal', 'with', 'problems', 'and', 'make', 'good', 'decisions', '.']",1
+"['in', 'making', 'decision', 'do', 'not', 'rely', 'on', 'personal', 'goal', 'but', 'it', 'should', 'be', 'have', 'a', 'basis', 'and', 'data', 'at', 'hand', 'before', 'making', 'decisions', '.']",0
+"['this', 'is', 'a', 'very', 'useful', 'course', 'where', 'we', 'got', 'an', 'idea', 'about', 'decision', 'making', 'platform', 'and', 'also', 'good', 'for', 'business', 'management', '.']",1
+"['this', 'course', 'is', 'a', 'great', 'help', 'in', 'im', 'it', 'talk', 'alot', 'of', 'techniques', 'metbod', 'and', 'models', 'to', 'help', 'to', 'improve', 'certain', 'organization', 'in', 'their', 'decision', 'making', 'in', 'terms', 'if', 'outcome', '.']",1
+"['now', 'it', 'is', 'very', 'good', '.']",1
+"['the', 'course', 'includes', 'decision', 'support', 'models', 'which', 'are', 'very', 'useful', '.']",1
+"['the', 'course', 'contains', 'too', 'many', 'models', 'and', 'they', 'all', 'need', 'practical', 'implementation', '.']",0
+"['so', 'for', 'this', 'course', 'i', 'recommend', 'at', 'a', 'lab', 'session', 'each', 'week', 'for', 'practical', 'use', 'of', 'the', 'models', '.']",0
+"['also', 'if', 'the', 'lab', 'assistant/instructor', 'is', 'from', 'the', 'computer', 'science/im', 'field', 'would', 'be', 'better', '.']",0
+"['course', 'was', 'well', 'structured', 'however', 'lacked', 'in', 'illustrating', 'practical', 'applications', '.']",0
+"['very', 'good', 'course', 'easy', 'to', 'learn', '.']",1
+"['course', 'is', 'well', 'organised.it', 'was', 'fun', 'learning', '.']",0
+"['subject', 'is', 'so', 'practical', 'to', 'learn', 'many', 'new', 'things', '.']",0
+"['usefull', 'course', '.']",1

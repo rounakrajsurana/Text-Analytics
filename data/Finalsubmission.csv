@@ -1,0 +1,21 @@
+comment,Sentiment
+"['great', '.']",1
+"['i', 'do', 'not', 'know', 'how', 'this', 'course', 'is', 'going', 'to', 'help', 'me', 'in', 'my', 'real', 'life', '.']",0
+"['all', 'is', 'perfect', '.']",1
+"['could', 'be', 'more', 'interactive', 'and', 'practical', 'with', 'live', 'examples', '.']",0
+"['more', 'examples', 'required', 'to', 'get', 'a', 'better', 'grip', 'on', 'the', 'concepts', '.']",0
+"['also', 'if', 'we', 'are', 'provided', 'with', 'solutions', 'of', 'the', 'problems', 'it', 'would', 'help', 'in', 'cross-\\nchecking', 'our', 'answers', '.']",0
+"['i', 'would', 'have', 'scored', 'more', 'if', 'i', 'knew', 'the', 'correct', 'answers', 'for', '2', 'questions', '.']",0
+"['the', 'followings', 'are', 'to', 'be', 'considered', ':', '.']",0
+"['the', 'materials', 'are', 'really', 'out', 'dated', '.']",0
+"[""'yes"", 'this', 'course', 'is', 'a', 'very', 'good', 'course', 'for', 'a', 'beginner', 'like', 'me.â\x80\x99']",1
+"['``', 'the', 'method', 'of', 'teaching', 'is', 'poor', '.', ""'""]",1
+"['â\x80\x98this', 'course', 'has', 'helped', 'me', 'in', 'finding', 'different', 'scenarios', 'of', 'workâ\x80\x99']",1
+"['this', 'course', 'is', 'really\\nchallenging', 'i', 'thing', 'it', 'should', 'be', 'removed', 'from', 'im', 'syllabus', '.']",0
+"[""'yes"", 'this', 'course', 'is', 'a', 'very', 'good', 'course', 'for', 'a', 'beginner', 'like', 'me.â\x80\x99']",1
+"['``', 'things', 'are', 'not', 'practical', 'in', 'this', 'subject', '.', ""'""]",0
+"['this', 'course', 'only', 'has', 'two', 'exams', 'which', 'is', 'not', 'a', 'wise', 'approach', '.']",0
+"['it', 'should', 'have', 'some', 'projects', 'and', 'homework', 'so', 'the', 'students', 'can', 'score', '.']",0
+"['good', '.']",1
+"['excellent', '.']",1
+"['a', 'good', 'subject', '!', '.']",1
